@@ -8,4 +8,5 @@ para ejecutar el sistema, debes poner :
 
 sistema de registro 2 
 tengo problemas para desde el git bash para hacer push 
+#pequeño cambio de prueba para verificar la conexion.
 
